@@ -12,3 +12,5 @@ If you find our work beneficial to your research, please cite our paper as follo
   pages={1910},
   year={2026},
   doi={10.3390/rs18121910}
+
+Paper Link: https://doi.org/10.3390/rs18121910
